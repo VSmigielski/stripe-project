@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from 'react'
-import { FaStumbleuponCircle } from 'react-icons/fa';
 import { useGlobalContext } from './context'
 
 const Submenu = () => {
